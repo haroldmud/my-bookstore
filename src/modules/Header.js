@@ -33,7 +33,7 @@ export default class Header extends Component {
             to={this.props.obj[0].link}
             style={this.props.obj[0].status ? this.linkStyle : this.nonActlink}
           >
-            Cateories
+            Categories
           </Link>
         </nav>
       </header>

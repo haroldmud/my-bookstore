@@ -8,12 +8,12 @@ export default class Form extends Component {
   }
 
   ChangeInput = (e) => {
-    const X = e.target.name;
-    if (X === 'Author') {
+    const theBook = e.target.name;
+    if (theBook === 'Author') {
       this.setState({
         author: e.target.value,
       });
-    } else if (X === 'Add book') {
+    } else if (theBook === 'Add book') {
       this.setState({
         book: e.target.value,
       });

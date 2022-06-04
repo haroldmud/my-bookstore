@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import Book from './Book';
 import Form from '../form/Form';
-import Header from '../Header';
 
 export default class Books extends Component {
   state = {
@@ -14,11 +13,6 @@ export default class Books extends Component {
       },
     ],
   }
-
-  links = [
-    { status: false, link: '../categories' },
-    { status: true, link: '../' },
-  ]
 
   addBook = (book) => {
     const newTodo = {
@@ -33,7 +27,6 @@ export default class Books extends Component {
   render() {
     return (
       <div>
-        <Header obj={this.links} />
         {this.state.books.map((book) => (
           <Book key={book.id} book={book} />
         ))}
