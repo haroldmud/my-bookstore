@@ -4,13 +4,15 @@
 
 ## Built With
 
-- html & css
+- react.js
 - stylelint & webhint
 - Github actions
 
-<!-- ## Live Demo (if available) -->
+<!-- ## Project presentation video -->
 
-<!-- [Live Demo Link](https://livedemo.com) -->
+## Live Demo (if available)
+
+
 
 ## Getting Started
 
@@ -24,8 +26,8 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 
-- git clone \<first https://github.com/haroldmud/To-Do-list-project>
-- cd \<first To-Do-list-project>
+- git clone \<first git@github.com:haroldmud/my-bookstore.git>
+- cd \<first my-bookstore>
 
 ### Install
 
@@ -45,6 +47,11 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@mudosaharold](https://twitter.com/MudosaHarold)
 - LinkedIn: [@haroldmudosa](https://www.linkedin.com/in/harold-mudosa-40124021b/)
 
+<!-- 👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle) -->
 
 ## 🤝 Contributing
 
